@@ -59,5 +59,8 @@ This document presents a comparative analysis of three tools used for deploying 
 ![k3d demo](asciiartify.gif)
 
 
+## Conclusion
 
+
+It was decided to use **k3d** due to its simplicity, speed, and suitability for local development. Docker licensing is not a concern at this stage, as the team consists of only two people and qualifies for free use. Podman was also considered as a rootless alternative with systemd integration, but its ecosystem is less mature. **Minikube** is resource-intensive and less suitable for rapid local development. **Kind** is well-suited for CI/CD pipelines but offers less convenience for interactive local development.
 

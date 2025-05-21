@@ -56,7 +56,8 @@ This document presents a comparative analysis of three tools used for deploying 
 
 ## Demonstration
 
-<img src="doc/asciiartify.gif" alt="Usage example" width="600">
+![k3d demo](asciiartify.gif)
+
 
 
 

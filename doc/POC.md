@@ -122,3 +122,4 @@ k3d cluster stop argo && k3d cluster delete argo
 
 
 [Watch the demo video](https://drive.google.com/file/d/12u2bqgVWWuNZbmMs6GjlxGlYx670b5Gn/view?usp=sharing)
+[ArgoCD Auto Sync demo](https://drive.google.com/file/d/1JPdvtnNEOsU3FyQHDm_CbL3fN6_h_xxa/view?usp=sharing)
